@@ -34,3 +34,7 @@ yarn-error.log*
 # cloudflared
 cloudflared.exe
 
+
+# open-next
+.open-next/
+
